@@ -10,7 +10,7 @@ Este proyecto fue abandonado pero su creacion comenzara otra vez.
 
 ---
 
-### CREADOR 
+### - CREADOR 
 
 **Numero:** [`Aquí`](https://wa.me/18293142989)
 
@@ -20,5 +20,5 @@ Este proyecto fue abandonado pero su creacion comenzara otra vez.
 
 ### - ENLACES IMPORTANTES
 
-***•Github MakimaBot:** [`Tocar`](https://github.com/mantis-has/Makima)
-***•Fuentes:** [`Tocar`](https://toshteam.com/Comandos)
+**•Github MakimaBot:** [`Tocar`](https://github.com/mantis-has/Makima)
+**•Fuentes:** [`Tocar`](https://toshteam.com/Comandos)
