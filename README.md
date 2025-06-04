@@ -12,10 +12,13 @@ Este proyecto fue abandonado pero su creacion comenzara otra vez.
 
 ### CREADOR 
 
-Numero: (Aqui)[wa.me/18293142989]
+**Numero:** [`Aquí`](https://wa.me/18293142989)
 
 </Details>
 
 ---
 
-### MANTIS BOT MD 
+### - ENLACES IMPORTANTES
+
+***•Github MakimaBot:** [`Tocar`](https://github.com/mantis-has/Makima)
+***•Fuentes:** [`Tocar`](https://toshteam.com/Comandos)
