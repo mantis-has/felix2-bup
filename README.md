@@ -12,10 +12,14 @@
 
 💎 PROPIETARIO 💎
 
-</Photo-code-status>https://files.catbox/Hajnriqhri.com<b3>
+img=>https://files.catbox.moe/y803ip.jpeg<b1>
 
 </details>
 
 ---
 
 > ## YAGIRA-BOT-MD
+
+</details>
+
+---
