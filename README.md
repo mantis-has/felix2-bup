@@ -1,25 +1,21 @@
-MANTIS BOT MD 
+<summary><code>💎 YAGIRA-BOT-MD💎<b1>
 
-</Details>
-
----
-
-Este proyecto fue abandonado pero su creacion comenzara otra vez.
-
-</Details>
+</details>
 
 ---
 
-### - CREADOR 
+<b1>ESTE ES UN PROYECTO BOT QUE SERA ACTO PARA EL FUNCIONAMIENTO EN TUS GRUPOS Y QUE LO MANTENGAS ACTIVO.<b2>
 
-**Numero:** [`Aquí`](https://wa.me/18293142989)
-
-</Details>
+</details>
 
 ---
 
-### - ENLACES IMPORTANTES
+💎 PROPIETARIO 💎
 
-**•Github MakimaBot:** [`Tocar`](https://github.com/mantis-has/Makima)
+</Photo-code-status>https://files.catbox/Hajnriqhri.com<b3>
 
-**•Fuentes:** [`Tocar`](https://toshteam.com/Comandos)
+</details>
+
+---
+
+> ## YAGIRA-BOT-MD
