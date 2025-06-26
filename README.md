@@ -12,7 +12,7 @@
 
 💎 PROPIETARIO 💎
 
-<img src= "https://files.catbox.moe/om9jai.jpg">
+<img src= "https://files.catbox.moe/y803ip.jpeg">
     </p>
 
 
